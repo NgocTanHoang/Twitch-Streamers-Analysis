@@ -21,8 +21,7 @@ The dataset includes information about Twitch streamers such as:
 ---
 
 ## 📊 Dashboard Overview
-![Twitch Dashboard](<img width="1194" height="672" alt="image" src="https://github.com/user-attachments/assets/d77b5ae3-656e-48de-9987-31e67ae64038" />
-)
+![Twitch Dashboard](Twitch_Streamers_Analysis.png)
 
 ### Key Visualizations:
 1. **Top Streamers**  
