@@ -60,8 +60,3 @@ The dataset includes information about Twitch streamers such as:
 1. Clone this repo.  
 2. Open the `.pbix` file in Power BI Desktop.  
 3. Explore the interactive visuals.  
-
----
-
-## 📌 Author
-Built with ❤️ by [Your Name]
